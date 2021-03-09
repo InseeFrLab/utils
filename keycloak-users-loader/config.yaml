@@ -1,0 +1,9 @@
+keycloak:
+  URL: https://keycloak.example.com
+  login: admin
+  password: password
+  adminRealm: master
+  targetRealm: samplerealm
+
+input:
+  file: input/sample.csv
